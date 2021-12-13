@@ -3,7 +3,7 @@ Modeling Uncertainty for Spam
 
 Team Members: Anahita Sharma (ahs3zq) and Elizabeth Lee (ewl3dv)
 
-In this project, we used the UCI Machine Learning Repository Dataset for Spam emails. The dataset can be found here: https://archive.ics.uci.edu/ml/datasets/spambase. 
+In this project, we used the UCI Machine Learning Repository Dataset for Spam emails. The dataset can be found here: https://archive.ics.uci.edu/ml/datasets/spambase. The spambase.data file contains the numerica data, while spambase.names contains the column names corresponding to the data stored in spambase.data, along with a brief data description.
 
 We cleaned the dataset, and used 49 variables from the original dataset. 48 of these features are the word_freq_WORD columns while the remaining column identified the class attribute of type spam {spam, ham}. 
 
